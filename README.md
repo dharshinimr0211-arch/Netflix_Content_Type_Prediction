@@ -4,7 +4,7 @@ A machine learning classification model that predicts whether a Netflix title is
 
 ## Live Demo
 
-[View Live Application](YOUR_STREAMLIT_APP_URL)
+[View Live Application](https://netflix-content-type-prediction.streamlit.app/)
 
 ## About the Project
 
